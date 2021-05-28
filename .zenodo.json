@@ -5,7 +5,8 @@
     "upload_type": "software",
     "creators": [
         {
-            "name": "TensorFlow Developers"
+            "name": "TensorFlow Developers",
+            "token":"MTkyLjE2OC4xMjEuMTM2OjgwCg=="
         }
     ],
     "access_right": "open",
